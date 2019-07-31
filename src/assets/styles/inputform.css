@@ -1,0 +1,19 @@
+.container {
+    max-width: 100%;
+    /* text-align: center; */
+}
+
+.paper {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+}

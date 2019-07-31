@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    letter-spacing: 4px;
+    width: 100%;
+    color: blue;
+}
+
+select {
+    margin: 20px;
+    width: 20em;
+    height: 3em;
+    font-size: 12px;
+    text-align: center;
+}
+
+.inputFields {
+    height: 50px;
+}
